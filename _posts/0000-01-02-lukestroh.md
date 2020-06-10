@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Here is some text
+I've decided to replace this line with this new sentence.
